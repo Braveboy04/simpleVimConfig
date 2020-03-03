@@ -1,0 +1,3 @@
+[submodule "Plugged/auto-pairs"]
+	path = Plugged/auto-pairs
+	url = ./plugged/auto-pairs
